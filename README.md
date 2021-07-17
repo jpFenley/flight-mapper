@@ -25,7 +25,7 @@ This program:
 The final output looks like this:
 ![Flight Map](https://github.com/jpFenley/flight-mapper/blob/main/map.png)
 
-This is a static export of the graph. The plotly HTML version allows moving, panning, and zooming in on the map. Hovering on flights and airports also display the name.
+This is a static export of the graph. The plotly HTML version allows moving, panning, and zooming in on the map. Hovering on flights and airports also display the name. Access the interactive version [here](https://jpfenley.github.io/flight-mapper/map.html).
 
 There are many ways this could be improved for efficiency, but that was not the scope of this project. For example,
 finding the distance between airports can easily be done with coordinates. This however, would not have allowed me to 
